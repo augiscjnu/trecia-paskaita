@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "trecia paskaita": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
